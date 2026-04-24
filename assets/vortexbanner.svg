@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" viewBox="0 0 200 50">
+  <rect width="200" height="50" rx="8" fill="#2d2d2d"/>
+  <circle cx="25" cy="25" r="16" fill="#6a11ff"/>
+  <path d="M19,18 L31,25 L19,32 Z" fill="white"/>
+  <text x="50" y="32" font-family="Arial, sans-serif" font-size="18" fill="white" font-weight="bold">Vortex</text>
+  <text x="130" y="32" font-family="Arial, sans-serif" font-size="12" fill="#aaaaaa">PowerPack</text>
+</svg>
