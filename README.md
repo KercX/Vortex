@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="180" height="180" src="https://raw.githubusercontent.com/KercX/Vortex/assets/hurricane.png"
+  <img width="180" height="180" src="https://raw.githubusercontent.com/KercX/assets/hurricane.png"
 </p>
 
 <h1 align="center">Vortex by KercX</h1>
