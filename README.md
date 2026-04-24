@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="180" height="180" src="https://raw.githubusercontent.com/KercX/vortex-powerpack/main/assets/vortex-icon.png" alt="Vortex Logo">
+  <img width="180" height="180" src="https://raw.githubusercontent.com/KercX/vortex-powerpack/main/assets/hurricane.png" alt="Vortex Logo">
 </p>
 
 <h1 align="center">Vortex PowerPack by KercX</h1>
