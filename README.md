@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KercX/vortex-powerpack/main/assets/screenshot.png" alt="Terminal demo" width="700">
+  <img src="github.com/KercX/Vortex/assets/vortexbanner.svg" alt="Terminal demo" width="700">
 </p>
 
 ---
