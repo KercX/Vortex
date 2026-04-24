@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="180" height="180" src="https://raw.githubusercontent.com/KercX/Vortex/vortex-powerpack/main/assets/hurricane.png" alt="Vortex Logo">
+  <img width="180" height="180" src="https://github.com/KercX/Vortex/vortex-powerpack/main/assets/hurricane.png"
 </p>
 
-<h1 align="center">Vortex PowerPack by KercX</h1>
+<h1 align="center">Vortex by KercX</h1>
 
 <p align="center">
   <b>The ultimate collection of modules, scripts, and utilities for the Vortex programming language</b><br>
