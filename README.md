@@ -9,8 +9,7 @@
   <i>Production‑ready tools to supercharge your Vortex development</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/KercX/vortex-powerpack/releases">
+
     <img src="https://img.shields.io/github/v/release/KercX/vortex-powerpack?style=for-the-badge&logo=github&color=blue" alt="GitHub release">
   </a>
   <a href="https://github.com/KercX/vortex-powerpack/actions/workflows/ci.yml">
